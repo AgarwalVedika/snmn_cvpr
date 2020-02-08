@@ -1,0 +1,13 @@
+#python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 38 GPU_ID 1
+#python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 39 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 40 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 41 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 42 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 43 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 44 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 45 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 46 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 47 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 48 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 49 GPU_ID 1
+python /BS/vedika2/nobackup/snmn/exp_vqa/test_net_vqa.py --cfg exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml TEST.SPLIT_VQA counting_val2014_90_10 TEST.ITER 50 GPU_ID 1

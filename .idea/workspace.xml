@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40f6072a-dd58-448c-850e-011f4582ace3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="vqa_v2_scratch_train_cvpr_check.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_cvpr_check.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen_bash_test_vqa_what_color.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gen_bash_test_vqa_what_color.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen_bash_train_validate.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gen_bash_train_validate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>to_T</find>
+      <find>prediction</find>
+      <find>file1_npy</find>
+      <find>batch_size</find>
+      <find>int32</find>
+      <find>EVAL_FILE</find>
+      <find>ipdb</find>
+      <find>ans</find>
+      <find>vqa_score_</find>
+      <find>qid</find>
+      <find>round</find>
+      <find>kite</find>
+      <find>random</find>
+      <find>rand</find>
+      <find>TRAIN</find>
+      <find>run</find>
+      <find>run_vis</find>
+      <find>if</find>
+      <find>accuracy_decay</find>
+      <find>decay</find>
+      <find>train_op</find>
+      <find>average</find>
+      <find>PASS</find>
+      <find>val</find>
+      <find>seed</find>
+      <find>print</find>
+      <find>BATCH</find>
+      <find>eval_file_pkl</find>
+      <find>dropout</find>
+      <find>start</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>trainval2014</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exp_vqa/validate_net_epoch.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/validate_net_epoch2.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/test_net_orig.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/to_validate.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/test_net_validate_2.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/data/build_vqa_imdb_r152_7x7_vqa_v2.py" />
+        <option value="$PROJECT_DIR$/allis_there_a_25lr_4_validate_vqa.sh" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_how_many_orig_10_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_how_many_orig_all_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_there_a_orig_10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_there_a_orig_10_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_there_a_orig_all_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_this_a_orig_10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_this_a_orig_10_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_this_a_orig_all_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_all_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_all_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_all_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_del1_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/allcounting_25lr_4_validate_vqa.sh" />
+        <option value="$PROJECT_DIR$/gen_bash_vqa.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/train_net_vqa.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/data/split_val_90_10.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_edited_train.yaml" />
+        <option value="$PROJECT_DIR$/2train_validate_vqa.sh" />
+        <option value="$PROJECT_DIR$/0train_validate_vqa.sh" />
+        <option value="$PROJECT_DIR$/is_this_a_25lr_train_validate_vqa.sh" />
+        <option value="$PROJECT_DIR$/exp_vqa/train_net_vqa_epoch.py" />
+        <option value="$PROJECT_DIR$/models_vqa/config.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/data/build_orig_edited_combined.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/data/build_controlled_orig_edited_batch_order.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_edited_train_val_edited_val.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_10_edited10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/gen_bash_test_vqa.py" />
+        <option value="$PROJECT_DIR$/util/vqa_train/data_reader.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_10_edited10_25lr_ratio_naive_70_30.yaml" />
+        <option value="$PROJECT_DIR$/what_color_is_the_test_run_test_vqa.sh" />
+        <option value="$PROJECT_DIR$/exp_vqa/test_net_vqa.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_how_many_orig_10_25lr.yaml" />
+        <option value="$PROJECT_DIR$/how_many_test_run_test_vqa1.sh" />
+        <option value="$PROJECT_DIR$/counting_test_run_test_vqa.sh" />
+        <option value="$PROJECT_DIR$/1train_validate_vqa.sh" />
+        <option value="$PROJECT_DIR$/gen_bash_train_validate.py" />
+        <option value="$PROJECT_DIR$/gen_bash_test_vqa_what_color.py" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_cvpr_check.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_edited_train_25lr.yaml" />
+        <option value="$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_edited_train_25lr_finetuning.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2339" />
+    <option name="y" value="135" />
+    <option name="width" value="1272" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="snmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snmn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snmn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snmn" type="462c0819:PsiDirectoryNode" />
+              <item name="exp_vqa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exp_vqa/cfgs" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/exp_vqa/data" />
+      <recent name="$PROJECT_DIR$/exp_vqa" />
+      <recent name="$PROJECT_DIR$/exp_clevr_snmn/cfgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exp_vqa/cfgs" />
+      <recent name="$PROJECT_DIR$/exp_vqa/cfgs/z_5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40f6072a-dd58-448c-850e-011f4582ace3" name="Default" comment="" />
+      <created>1539007893666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539007893666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1920" height="1164" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29098576" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32803738" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32958803" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29098576" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32803738" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32958803" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_all_del1_edited10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_10_edited10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_what_color_is_the_orig_10_edited10_25lr_ratio_naive_70_30.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/what_color_is_the_test_run_test_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_edited10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/what_color_is_the_test_run_test_vqa1.sh" />
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/vqa_train/data_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="225" column="9" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counting_test_run_test_vqa3.sh" />
+    <entry file="file://$PROJECT_DIR$/counting_test_run_test_vqa2.sh" />
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_del1_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_there_a_orig_10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_vqa/output_unit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_is_there_a_orig_10_edited10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how_many_test_run_test_vqa1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_how_many_orig_10_edited10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_how_many_orig_10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counting_test_run_test_vqa.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_all_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/validate_net_epoch2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/validate_net_epoch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_run_test_vqa_DA.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_bash_test_vqa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/test_net_vqa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/train_net_vqa_epoch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_edited_train_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_edited_train_25lr_finetuning.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_train_cvpr_check.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how_many_test_run_test_vqa.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_there_a_test_run_test_vqa.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0train_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/2train_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/exp_vqa/cfgs/vqa_v2_scratch_finetune_counting_2_orig_10_25lr.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allis_this_a_25lr_4_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/allis_there_a_25lr_4_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/allhow_many_25lr_4_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/allcounting_25lr_4_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/allwhat_color_is_the_25lr_4_validate_vqa.sh" />
+    <entry file="file://$PROJECT_DIR$/counting_test_run_test_vqa1.sh" />
+    <entry file="file://$PROJECT_DIR$/models_vqa/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="144" column="9" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/heat_map.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_bash_test_vqa_what_color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp_vqa/just_visualizing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_vqa/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="104" column="19" lean-forward="true" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_this_a_25lr_train_validate_vqa.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models_vqa/vis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1train_validate_vqa.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_bash_validate_validate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_bash_train_validate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
